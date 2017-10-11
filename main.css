@@ -1,0 +1,22 @@
+.googleFontCinzel {
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.googleFontAveria {
+  font-family: 'Averia Libre', cursive;
+}
+
+.googleFontsNixie {
+  font-family: 'Nixie One', cursive;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+hr.style18 {
+  height: 30px;
+  width: 85%;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
